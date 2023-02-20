@@ -1,0 +1,7 @@
+statistics -> khan academy => https://www.khanacademy.org/math/statistics-probability
+    execises -> https://bit.ly/3QrSXis
+
+machine learning -> https://bit.ly/3io5qqX
+
+Roadmap => 
+https://github.com/codebasics/py/blob/master/TechTopics/DataScienceRoadMap2020/data_science_roadmap_2020.md
